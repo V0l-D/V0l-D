@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Maurice van Egmond I am a developer experienced in several coding languages, I am currently working on a few projects down below you will see more information about me.
+My name is Void I am a developer experienced in several coding languages, I am currently working on a few projects down below you will see more information about me.
 
 ![Terroriser1' github stats](https://github-readme-stats.vercel.app/api?username=Terroriser1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
 ![Terroriser1' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Terroriser1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
