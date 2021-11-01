@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Terroriser1/Terroriser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**V0l-D/V0l-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 My name is Void I am a developer experienced in several coding languages, I am currently working on a few projects down below you will see more information about me.
 
-![Terroriser1' github stats](https://github-readme-stats.vercel.app/api?username=Terroriser1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
-![Terroriser1' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Terroriser1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
+![V0l-D' github stats](https://github-readme-stats.vercel.app/api?username=V0l-D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
+![V0l-D' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=V0l-D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
