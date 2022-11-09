@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Css and Html**
 
-- 📫 How to reach me **void@sinux.xyz**
+- 📫 How to reach me **datums-aspect-0d@icloud.com**
 
 - 📄 My portfolio is located here [https://sinux.xyz/void](https://sinux.xyz/void)
 
