@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **datums-aspect-0d@icloud.com**
 
-- ⚡ Fun fact **I actually work in a restaurant but code in my free time**
+- ⚡ Fun fact **I actually work in a restaurant as a manager but code in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
