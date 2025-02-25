@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **datums-aspect-0d@icloud.com**
 
-- 📄 My portfolio is located here [https://sinux.xyz/void](https://sinux.xyz/void)
-
 - ⚡ Fun fact **I actually work in a restaurant but code in my free time**
 
 <h3 align="left">Connect with me:</h3>
