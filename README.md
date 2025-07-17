@@ -1,33 +1,64 @@
-<h1 align="center">Hi 👋, I'm Void</h1>
-<h3 align="center">A guy that knows some Javascript, Html and Css</h3>
+<h1 align="center">Hey there 👋, I'm Void</h1>
+<h3 align="center">A hotel manager by day, hobby coder by night</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v0l-d&label=Profile%20views&color=0e75b6&style=flat" alt="v0l-d" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v0l-d" alt="v0l-d" /></a> </p>
+### 🧠 About Me
 
-- 🔭 I’m currently working on [Discord-Netflix](https://github.com/V0l-D/Discord-Netflix)
+- 🤵‍♂️ Full-time hotel manager  
+- 💻 Self-taught coder in my free time  
+- 🚀 Currently building: [**Discord-Netflix**](https://github.com/V0l-D/Discord-Netflix)  
+- 📘 Learning: **TypeScript** & **PHP**  
+- 📫 Reach me: **datums-aspect-0d@icloud.com**  
 
-- 🌱 I’m currently learning **Typescript, Php**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/V0l-D?tab=repositories](https://github.com/V0l-D?tab=repositories)
+### 🧰 Tech Stack
 
-- 💬 Ask me about **Javascript, Css and Html**
-
-- 📫 How to reach me **datums-aspect-0d@icloud.com**
-
-- ⚡ Fun fact **I actually work in a restaurant as a manager but code in my free time**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/16550208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16550208" height="30" width="40" /></a>
-<a href="https://discord.gg/kbf8EjpxbU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kbf8EjpxbU" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v0l-d&show_icons=true&locale=en&layout=compact" alt="v0l-d" /></p>
+### 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v0l-d&show_icons=true&locale=en" alt="v0l-d" /></p>
+<p align="left">
+  <a href="https://stackoverflow.com/users/16550208" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://discord.gg/kbf8EjpxbU" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v0l-d&" alt="v0l-d" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=v0l-d&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=v0l-d&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0l-d&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=v0l-d&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
